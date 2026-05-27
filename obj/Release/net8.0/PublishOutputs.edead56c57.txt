@@ -1,0 +1,1 @@
+/Users/danielp/GitRepo/BlazorApp/AzureWebApp/bin/Release/net8.0/publish/web.config
